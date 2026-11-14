@@ -1,5 +1,3 @@
-# Mangarita
-Interactive, offline-capable NASA POWER climate and Earth trend explorer built in Python
 # 🛰️ Mangarita — NASA POWER Climate Explorer
 
 **Mangarita** is a lightweight, interactive web application built in Python that transforms real satellite and meteorological data from the **NASA POWER API** into global climate comparisons, statistical trend analyses, and mathematical future projections—designed to work seamlessly both online and offline.
@@ -28,11 +26,14 @@ Interactive, offline-capable NASA POWER climate and Earth trend explorer built i
 
 2. **Run the application:**
    ```bash
-   python mangarita.py
+   python mangaritaaaa.py
    ```
    The local server will start automatically and open the application in your browser at `http://127.0.0`.
 
 ### Additional Terminal Options
-* `python mangarita.py --no-download` — Starts immediately using only the data already saved in `reserva_nasa.json`.
-* `python mangarita.py --update` — Refreshes all catalog locations with the latest available months in NASA POWER.
-Made.. by Samuel Jose Gordillo Mantilla from popayan :)
+* `python mangaritaaaa.py --no-download` — Starts immediately using only the data already saved in `reserva_nasa.json`.
+* `python mangaritaaaa.py --update` — Refreshes all catalog locations with the latest available months in NASA POWER.
+
+---
+Made by **Samuel José Gordillo Mantilla** from Popayán, Colombia :)
+
